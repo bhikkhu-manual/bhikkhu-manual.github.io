@@ -59,6 +59,10 @@ blockquote {
 .instr > blockquote p {
   font-weight: bold; }
 
+span.vin {
+  display: inline-block;
+  width: 2em; }
+
 .titlepage-cover {
   text-align: center;
   margin-top: 2em; }
@@ -74,6 +78,10 @@ blockquote {
     margin-top: 0.5em; }
   .download-item .item-cover img {
     width: 170px; }
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.7; }
 
 .content h1 .header:link {
   color: #4d4d4d; }
